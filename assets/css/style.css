@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto+Condensed:wght@300&display=swap');
+* {
+font-family: 'Montserrat','Roboto Condensed', sans-serif;  
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #4ABDAC;
+}
+
+h1 {
+  padding: 2rem;
+  font-weight: bold;
+}
+
+p {
+  font-style: italic;
+  font-size:1rem;
+  text-align: center;
+  font-weight: 600;
+
+}
+
+
+#history {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+#history div {
+  padding: 3rem;
+  background: #fc4;
+  margin: 0.5rem;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 1rem;
+  text-align: center;
+}
+
