@@ -55,7 +55,7 @@ transition: all .2s ease-in-out;
 
 .footer-basic {
   padding:40px 0;
-  background-color:RGBA(237,199,183,1);
+  background-color:inear-gradient(80deg, #164A41, #4D774E, #9DC88D);
   color:#4b4c4d;
 }
 
