@@ -1,31 +1,31 @@
 let data = [
   {
-    name: 'Big Papa ',
+    name: 'BIG PAPA ',
     age: '90',
     description: 'Otherwise known as the Patriarch.',
   },
   {
-    name: 'Mama',
+    name: 'MAMA',
     age: '82',
     description: 'Otherwise known as the Matriarch.',
   },
   {
-    name: 'Bendito',
+    name: 'BENDITO',
     age: '30',
     description: 'Bendito thinks he is from space.',
   },
   {
-    name: 'lily',
+    name: 'LILY',
     age: '29',
     description: 'Definitely a favorite child',
   },
   {
-    name: 'Sam',
+    name: 'SAM',
     age: '29',
     description: 'Love child from mama from a previous marriage.',
   },
   {
-    name: 'Alinko',
+    name: 'ALINKO',
     age: '19',
     description: 'Last child of the Rose family.',
   }
